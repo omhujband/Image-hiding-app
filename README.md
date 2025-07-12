@@ -39,7 +39,7 @@ A simple steganography-based desktop application that allows you to **hide (enco
 
 2. **Install dependencies (Python 3 required):**
    ```bash
-   pip install pillow numpy
+   pip install tinker numpy
    ```
 
 ---
@@ -69,7 +69,6 @@ A simple steganography-based desktop application that allows you to **hide (enco
 
 ## 📦 Dependencies
 
-- [`Pillow`](https://python-pillow.org) – image loading and saving
 - [`NumPy`](https://numpy.org) – pixel array manipulation
 - [`Tkinter`](https://wiki.python.org/moin/TkInter) – GUI (built-in with Python)
 
